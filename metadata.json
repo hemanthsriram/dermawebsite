@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Health Clinic",
+  "description": "A modern, professional one-page website for a healthcare clinic featuring services, team, and contact information.",
+  "requestFramePermissions": ["geolocation"]
+}
