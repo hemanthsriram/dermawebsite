@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+.agent/
+.agents/
+design_system_check.md
+design_system_rec.md
+stdout_design.md
